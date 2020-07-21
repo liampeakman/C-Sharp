@@ -1,0 +1,12 @@
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Liam\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
